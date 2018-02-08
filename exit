@@ -1,37 +1,0 @@
-[1mdiff --git a/README.md b/README.md[m
-[1mnew file mode 100644[m
-[1mindex 0000000..bfd0814[m
-[1m--- /dev/null[m
-[1m+++ b/README.md[m
-[36m@@ -0,0 +1,2 @@[m
-[32m+[m[32m# TestDemo[m
-[32m+[m[32m这是一个测试项目，用于测试如何在github上传自己的项目[m
-[1mdiff --git a/Test.txt b/Test.txt[m
-[1mindex 02ebda6..dc383fb 100644[m
-[1m--- a/Test.txt[m
-[1m+++ b/Test.txt[m
-[36m@@ -1,7 +1,8 @@[m
-[31m-﻿sadaasfasfasfaf asfdaa[m
-[32m+[m[32msadaasfasfasfaf asfdaa[m[41m[m
- sadasadghngjghj[m
-[31m-这个是分支1的地盘[m
-[32m+[m[32m24532465464\\[m[41m[m
-[32m+[m[32mhghjgjhkghjkhkl[m[41m[m
-[32m+[m[32mmain 2[m[41m[m
- [m
-[32m+[m[32m谁打啊[m[41m[m
- [m
-[31m-[m
-[31m-askdgadfhajskhdjka hkj[m
-\ No newline at end of file[m
-[1mdiff --git a/_config.yml b/_config.yml[m
-[1mnew file mode 100644[m
-[1mindex 0000000..c741881[m
-[1m--- /dev/null[m
-[1m+++ b/_config.yml[m
-[36m@@ -0,0 +1 @@[m
-[32m+[m[32mtheme: jekyll-theme-slate[m
-\ No newline at end of file[m
-[1mdiff --git a/fenzhi.txt b/fenzhi.txt[m
-[1mdeleted file mode 100644[m
-[1mindex e69de29..0000000[m
