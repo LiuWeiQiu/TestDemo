@@ -1,3 +1,9 @@
+# Mac Finder generated
+.DS_Store
+
+# Windows thumbnail db
+Thumbs.db
+
 # Built application files
 *.apk
 *.ap_
@@ -32,9 +38,17 @@ proguard/
 # Android Studio captures folder
 captures/
 
-# Intellij
+# Jet Brains
+.idea/
 *.iml
-.idea/workspace.xml
 
 # Keystore files
 *.jks
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Visual Studio Code
+.classpath
+.project
+.settings/
